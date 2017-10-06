@@ -1,0 +1,113 @@
+@font-face {
+    font-family: Dreams;
+    src: url(fonts/CaviarDreams.ttf);
+}
+@font-face {
+    font-family: Quicksand;
+    src: url(fonts/Quicksand_Book.otf);
+}
+body{
+    background-image: url(images/mint.jpg);
+    background-color: #98b4e0;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color:black;
+}
+h1{
+    font-family: "Dreams", sans-serif;
+    text-align: center;
+}
+h2{
+    font-family: "Dreams", sans-serif;
+    text-align: center;
+}
+h3{
+    font-family: "Dreams", sans-serif;
+    text-align: center;
+}
+h4{
+    font-family: "Dreams", sans-serif;
+    text-align: center;
+}
+h5{
+    font-family: "Dreams", sans-serif;
+    text-align: center;
+}
+p{
+    font-family: "Quicksand", sans-serif;
+    text-align: center;
+}
+#nav {
+    list-style-type: none;
+    margin: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f7afba;
+}
+#nav li {
+    float: right;
+}
+#nav li a {
+    display: block;
+    color: #163970;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#nav li a:hover {
+    background-color: #b2305b;
+    color: white;
+}
+#nav li a:active {
+    background-color: white;
+    color:black;
+}
+ul{
+    font-family: "Quicksand", sans-serif;
+    text-align: center;
+}
+ol{
+    font-family: "Quicksand", sans-serif;
+    text-align: center;
+}
+table{
+    font-family: "Quicksand", sans-serif;
+    text-align: center;
+    margin:auto;
+}
+#bts {
+    border: solid white 3px;
+    margin: 50px;
+    padding: 75px;
+    text-align: center;
+}
+#abt {
+    text-align: center;
+}
+#hobbies{
+    width: 250px;
+    text-align: left;
+    margin: auto;
+}
+#songs{
+    width: 250px;
+    text-align: left;
+    margin: auto;
+}
+#contact{
+    width: 300px;
+    text-align: left;
+    margin: auto;
+}
+th{
+    font-family: "Quicksand", sans-serif;
+    text-align: center;
+}
+table, th, td {
+   border: 1px solid black;
+}
+tr:hover {
+    background-color: #f5f5f5
+    
+}
