@@ -56,7 +56,7 @@ p{
     text-decoration: none;
 }
 #nav li a:hover {
-    background-color: #2a6fdd;
+    background-color: #073b8e;
     color: white;
 }
 #nav li a:active {
@@ -131,4 +131,7 @@ table{
     width: 300px;
     text-align: left;
     margin: auto;
+}
+#game{
+    text-align: center;
 }
