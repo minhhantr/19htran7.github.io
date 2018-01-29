@@ -107,21 +107,21 @@ table{
     margin: -8px;
     padding: 0;
     overflow: hidden;
-    background-color: #f8ff96;
+    background-color: #c0dfe8;
 }
 #nav1 li {
     float: center;
 }
 #nav1 li a {
     display: block;
-    color: #b54154;
+    color: #9c9d9e;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 #nav1 li a:hover {
-    background-color: #fffb49;
-    color: #89232b;
+    background-color: #8ebecc;
+    color: white;
 }
 #nav1 li a:active {
     background-color: white;
